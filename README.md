@@ -19,7 +19,6 @@ experiences.
 - ![Azure Badge](https://img.shields.io/badge/Azure-Cloud%20Technologies-orange)
 - ![Google Cloud Badge](https://img.shields.io/badge/Google%20Cloud-Cloud%20Technologies-orange)
 - ![ChatGPT Badge](https://img.shields.io/badge/ChatGPT-AI%20%26%20ML-blue)
-- ![Neural Networks Badge](https://img.shields.io/badge/Neural%20Networks-AI%20%26%20ML-blue)
 - ![Generative AI Badge](https://img.shields.io/badge/Generative%20AI-AI%20%26%20ML-blue)
 - ![Selenium Badge](https://img.shields.io/badge/Selenium-Automation-yellow)
 - ![Beautiful Soup Badge](https://img.shields.io/badge/Beautiful%20Soup-Automation-yellow)
