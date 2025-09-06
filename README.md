@@ -1,13 +1,12 @@
 # Hi there, I'm Pradeep Kumar Yadav! 👋
 
-Results-driven Python developer with over 3 years of experience in crafting robust web
-applications, cloud solutions, and AI integrations. Proven expertise in backend frameworks like
-Django, Flask, FastAPI, and aiohttp. Skilled in frontend technologies, data analysis, image/video
-processing, containerization, and DevOps practices. Adept at full-stack development cycles,
-from design to deployment and maintenance. Experienced in integrating various technologies,
-SaaS development, automation, and architecture design. Passionate about leveraging
-cutting-edge Gen AI technologies like ChatGPT, claude, llama2, Gemini AI to enhance user
-experiences.
+AI/ML and Full-Stack Engineer with 5 years of experience in building intelligent,
+scalable, and cloud-native applications. Proven expertise in designing and
+deploying machine learning and AI models, backend and frontend
+development, and cloud infrastructure. Skilled in end-to-end automation,
+microservices architecture, API development, CI/CD pipelines, containerization,
+and system security. Adept at solving real-world business challenges through AI
+integration, workflow automation, and high-performance backend systems.
 
 ## 🔧 Technologies & Tools
 
