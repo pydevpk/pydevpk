@@ -67,8 +67,8 @@ integration, workflow automation, and high-performance backend systems.
 ### 🌐 Frontend Development  
 - ![React Badge](https://img.shields.io/badge/React-JavaScript%20Library-lightblue)  
 - ![Next.js Badge](https://img.shields.io/badge/Next.js-Fullstack%20Framework-black)  
-- ![Angular Badge](https://img.shields.io/badge/Angular-Web%20Apps-red)  
-- ![Flutter Badge](https://img.shields.io/badge/Flutter-Cross%20Platform-blue)  
+- ![HTML Badge](https://img.shields.io/badge/HTML-Web%20Apps-red)  
+- ![CSS Badge](https://img.shields.io/badge/CSS-Web%20Design-blue)  
 
 ### ⚙️ Tools & Others  
 - ![Git Badge](https://img.shields.io/badge/Git-Version%20Control-orange)  
