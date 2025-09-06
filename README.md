@@ -8,56 +8,118 @@ microservices architecture, API development, CI/CD pipelines, containerization,
 and system security. Adept at solving real-world business challenges through AI
 integration, workflow automation, and high-performance backend systems.
 
-## 🔧 Technologies & Tools
+# 💼 What I Do
 
-- ![Django Badge](https://img.shields.io/badge/Django-Web%20Development-brightgreen)
-- ![Flask Badge](https://img.shields.io/badge/Flask-Web%20Development-brightgreen)
-- ![FastAPI Badge](https://img.shields.io/badge/FastAPI-Web%20Development-brightgreen)
-- ![aiohttp Badge](https://img.shields.io/badge/aiohttp-Web%20Development-brightgreen)
-- ![AWS Badge](https://img.shields.io/badge/AWS-Cloud%20Technologies-orange)
-- ![Azure Badge](https://img.shields.io/badge/Azure-Cloud%20Technologies-orange)
-- ![Google Cloud Badge](https://img.shields.io/badge/Google%20Cloud-Cloud%20Technologies-orange)
-- ![ChatGPT Badge](https://img.shields.io/badge/ChatGPT-AI%20%26%20ML-blue)
-- ![Generative AI Badge](https://img.shields.io/badge/Generative%20AI-AI%20%26%20ML-blue)
-- ![Selenium Badge](https://img.shields.io/badge/Selenium-Automation-yellow)
-- ![Beautiful Soup Badge](https://img.shields.io/badge/Beautiful%20Soup-Automation-yellow)
-- ![Scrapy Badge](https://img.shields.io/badge/Scrapy-Automation-yellow)
-- ![SaaS Projects Badge](https://img.shields.io/badge/SaaS%20Projects-Development-lightgrey)
-- ![DevOps Badge](https://img.shields.io/badge/DevOps-CI%2FCD-lightgrey)
-- ![Git Badge](https://img.shields.io/badge/Git-Version%20Control-lightgrey)
-- ![Linux Badge](https://img.shields.io/badge/Linux-Linux%20Administration-lightgrey)
-- ![Pandas Badge](https://img.shields.io/badge/Pandas-Data%20Analysis-yellowgreen)
-- ![Numpy Badge](https://img.shields.io/badge/Numpy-Data%20Analysis-yellowgreen)
-- ![Matplotlib Badge](https://img.shields.io/badge/Matplotlib-Data%20Analysis-yellowgreen)
-- ![Seaborn Badge](https://img.shields.io/badge/Seaborn-Data%20Analysis-yellowgreen)
-- ![Consultancy Badge](https://img.shields.io/badge/Consultancy-Technology%20Strategy-lightgrey)
-- ![SQL Database Badge](https://img.shields.io/badge/SQL%20Database-Optimization-lightgrey)
+### 🤖 AI & Data Solutions  
+- ![AI Badge](https://img.shields.io/badge/AI%20Solutions-Intelligent%20Systems-blueviolet)  
+- ![ML Badge](https://img.shields.io/badge/Machine%20Learning-Predictive%20Models-green)  
+- ![NLP Badge](https://img.shields.io/badge/NLP-Language%20Processing-yellow)  
+- ![Computer Vision Badge](https://img.shields.io/badge/Computer%20Vision-Image%20%26%20Video%20Analysis-orange)  
+- ![Recommendation Badge](https://img.shields.io/badge/Recommendation%20Systems-Personalization-red)  
+
+### 🌐 Full-Stack Development  
+- ![Backend Badge](https://img.shields.io/badge/Backend-APIs%20%26%20Microservices-lightblue)  
+- ![Frontend Badge](https://img.shields.io/badge/Frontend-Web%20%26%20Mobile%20Apps-blue)  
+- ![Integration Badge](https://img.shields.io/badge/Integration-End%20to%20End%20Solutions-green)  
+
+### ⚙️ Workflow Automation  
+- ![Automation Badge](https://img.shields.io/badge/Automation-Process%20Optimization-orange)  
+- ![Bots Badge](https://img.shields.io/badge/Chatbots-%26%20Marketing%20Bots-yellowgreen)  
+- ![RPA Badge](https://img.shields.io/badge/RPA-Business%20Tasks%20Automation-red)  
+
+### ☁️ Cloud & DevOps  
+- ![Cloud Badge](https://img.shields.io/badge/Cloud-Native%20Deployment-blue)  
+- ![DevOps Badge](https://img.shields.io/badge/DevOps-CI%2FCD%20%26%20Scaling-lightgrey)  
+- ![Security Badge](https://img.shields.io/badge/Security-Enterprise%20Grade-darkred)  
+- ![Monitoring Badge](https://img.shields.io/badge/Monitoring-Logs%20%26%20Analytics-green)  
+
+
+# 🛠️ Skills & Technologies
+
+### 🚀 Backend Development  
+- ![Django Badge](https://img.shields.io/badge/Django-Web%20Development-brightgreen)  
+- ![FastAPI Badge](https://img.shields.io/badge/FastAPI-High%20Performance%20APIs-teal)  
+- ![Flask Badge](https://img.shields.io/badge/Flask-Microframework-lightgrey)  
+- ![Node.js Badge](https://img.shields.io/badge/Node.js-JavaScript%20Runtime-green)  
+- ![Express.js Badge](https://img.shields.io/badge/Express.js-Web%20Framework-blue)  
+
+### 📊 AI / Machine Learning  
+- ![Python Badge](https://img.shields.io/badge/Python-ML%20%26%20AI-blue)  
+- ![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-Deep%20Learning-orange)  
+- ![PyTorch Badge](https://img.shields.io/badge/PyTorch-Deep%20Learning-red)  
+- ![Scikit-learn Badge](https://img.shields.io/badge/Scikit--learn-ML-yellow)  
+- ![OpenAI Badge](https://img.shields.io/badge/OpenAI-Generative%20AI-black)  
+- ![HuggingFace Badge](https://img.shields.io/badge/HuggingFace-NLP%20Models-orange)  
+
+### 📦 Databases  
+- ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-Relational%20DB-blue)  
+- ![MySQL Badge](https://img.shields.io/badge/MySQL-Relational%20DB-lightblue)  
+- ![MongoDB Badge](https://img.shields.io/badge/MongoDB-NoSQL-green)  
+- ![Redis Badge](https://img.shields.io/badge/Redis-Caching-red)  
+
+### ☁️ Cloud & DevOps  
+- ![AWS Badge](https://img.shields.io/badge/AWS-Cloud-orange)  
+- ![SageMaker Badge](https://img.shields.io/badge/SageMaker-ML%20Deployment-yellow)  
+- ![Docker Badge](https://img.shields.io/badge/Docker-Containers-blue)  
+- ![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-Orchestration-blueviolet)  
+- ![CI/CD Badge](https://img.shields.io/badge/CI%2FCD-Automation-brightgreen)  
+
+### 🌐 Frontend Development  
+- ![React Badge](https://img.shields.io/badge/React-JavaScript%20Library-lightblue)  
+- ![Next.js Badge](https://img.shields.io/badge/Next.js-Fullstack%20Framework-black)  
+- ![Angular Badge](https://img.shields.io/badge/Angular-Web%20Apps-red)  
+- ![Flutter Badge](https://img.shields.io/badge/Flutter-Cross%20Platform-blue)  
+
+### ⚙️ Tools & Others  
+- ![Git Badge](https://img.shields.io/badge/Git-Version%20Control-orange)  
+- ![Linux Badge](https://img.shields.io/badge/Linux-OS-lightgrey)  
+- ![Nginx Badge](https://img.shields.io/badge/Nginx-Web%20Server-green)  
+- ![Apache Badge](https://img.shields.io/badge/Apache-Web%20Server-darkred)  
+
 - And much more...
 
-## 🚀 What I Do
 
-- **Web Development**: Crafting robust web applications with Django, Flask, FastAPI, and aiohttp.
-- **Cloud Solutions**: Architecting scalable and efficient cloud solutions on AWS, Azure, and Google Cloud.
-- **AI & ML**: Developing AI-driven systems and chatbots with ChatGPT, neural networks, and generative AI.
-- **Automation**: Building data-driven solutions with Selenium, Beautiful Soup, and Scrapy.
-- **SaaS Projects**: Leading and delivering subscription-based software solutions.
-- **DevOps**: Setting up CI/CD pipelines, Git version control, and Linux server administration.
-- **Data Analysis**: Extracting insights from data using Pandas, Numpy, Matplotlib, and Seaborn.
-- **Consultancy**: Providing tech strategy and innovation guidance.
-- **SQL Database Optimization**: Designing, optimizing, and maintaining SQL databases.
+# 🚀 Projects  
 
-## 🌟 Projects
+### 💎 Jewelry & E-Commerce  
+- ![Recommendation Badge](https://img.shields.io/badge/AI%20Recommendation%20System-Personalized%20Shopping-red)  
 
-Here are some of my notable projects:
+  Built a CNN-based recommendation engine for jewelry products with multi-image support, metadata filtering, and AWS SageMaker deployment.  
 
-- Fitness Application: Analyzes exercise videos and generates user dashboards.
-- Surveillance Security Management Tool: Real-time facial recognition and vehicle detection.
-- Project and Goals Management: Collaborated on API development using Python and generative AI to Automate process.
-- Nursing Station: Django-based platform for in-house medical services.
-- Bike Management System: Real-time tracking and data management.
-- Shpify partner dashboard: Real-time order and inventory management system.
-- Ebay partner dashboard: Inventory management system.
-- HVTMS: A SaaS product to manage production, Inventory, Accounting and security in one place for heavy vehicle production firms.
+- ![Forecast Badge](https://img.shields.io/badge/Forecasting-System%20for%20Sales%20%26%20Demand-blueviolet)  
+
+  Designed forecasting models to predict sales trends, optimize inventory, and plan marketing campaigns.  
+
+- ![Vision Badge](https://img.shields.io/badge/Visual%20Search-Image%20Based%20Product%20Discovery-green) 
+
+  Implemented Google Vision–powered search for finding visually similar products.  
+
+---
+
+### 📊 SaaS & Business Platforms  
+- ![Kroolo Badge](https://img.shields.io/badge/Kroolo-AI%20Project%20%26%20Task%20Management-orange)  
+
+  Developed AI-driven project templates, task generation, document summarization, and RAG (PDF knowledge base).  
+
+- ![Virvit Badge](https://img.shields.io/badge/Virvit-AI%20Job%20%26%20Resume%20Platform-lightblue)  
+
+  Built resume screening & video analysis tools for employers and applicants.  
+
+- ![Emango Badge](https://img.shields.io/badge/Emango-Education%20%26%20Events%20Platform-yellowgreen)  
+
+  Created student-school-society platform with quizzes, assignments, events, and AI-generated student reports.  
+
+---
+
+### 🏭 Enterprise Solutions  
+- ![HTVMS Badge](https://img.shields.io/badge/HTVMS-Heavy%20Vehicle%20Management-darkred)  
+
+  Automated sales, production, inventory, testing, accounts, and gate pass workflows for heavy vehicle manufacturing.  
+
+- ![Finanticx Badge](https://img.shields.io/badge/Finanticx-Financial%20Data%20Analytics-darkblue)  
+
+  Designed AI-based financial analytics platform with forecasting & reporting features.  
+
 
 And many more...
 
