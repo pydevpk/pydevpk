@@ -127,6 +127,7 @@ And many more...
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pydev/)
 [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pydev.pk@gmail.com)
+[![Web Badge](https://img.shields.io/badge/Web-D14836?style=for-the-badge&logo=web&logoColor=white)](https://pydev-ochre.vercel.app/)
 
 ## 🤝 Looking Forward
 
